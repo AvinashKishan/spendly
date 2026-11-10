@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install *)",
+      "PowerShell(python3 app.py)",
+      "PowerShell(python3 expense-tracker\\\\app.py)"
+    ]
+  }
+}
