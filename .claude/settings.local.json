@@ -3,7 +3,9 @@
     "allow": [
       "PowerShell(pip install *)",
       "PowerShell(python3 app.py)",
-      "PowerShell(python3 expense-tracker\\\\app.py)"
+      "PowerShell(python3 expense-tracker\\\\app.py)",
+      "PowerShell(git remote *)",
+      "PowerShell(git push *)"
     ]
   }
 }
